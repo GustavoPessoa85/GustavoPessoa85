@@ -9,6 +9,7 @@
 ## 👨‍💻 Sobre mim
 
 Desenvolvedor Back-end na **Prolins Software House** com experiência em todo o ciclo de desenvolvimento de software. Atuo desde o levantamento de requisitos até deploy em produção, com foco em sistemas corporativos complexos, arquitetura escalável e boas práticas.
+(GitHub desatualizado)
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul Virtual - 2027)
 
